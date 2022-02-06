@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fshader1.glsl</file>
+        <file>resources/vshader1.glsl</file>
+        <file>resources/fGouraudShader.glsl</file>
+        <file>resources/vGouraudShader.glsl</file>
+        <file>resources/fPhongShader.glsl</file>
+        <file>resources/vPhongShader.glsl</file>
+        <file>resources/fToonshader.glsl</file>
+        <file>resources/vToonshader.glsl</file>
+        <file>resources/textures/earth1.png</file>
+        <file>resources/vPhongTex.glsl</file>
+        <file>resources/fPhongTex.glsl</file>
+        <file>resources/textures/capsule0.jpg</file>
+        <file>resources/textures/common-cockle_Diffuse.jpg</file>
+        <file>resources/textures/head_diffuse.jpg</file>
+        <file>resources/textures/head_specular.jpg</file>
+        <file>resources/escenes/marino.txt</file>
+        <file>resources/escenes/mapMarino.txt</file>
+        <file>resources/escenes/mapAnime.txt</file>
+        <file>resources/escenes/brobject.txt</file>
+        <file>resources/models/sphere0.obj</file>
+    </qresource>
+</RCC>

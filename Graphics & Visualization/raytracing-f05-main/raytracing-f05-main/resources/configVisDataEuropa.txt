@@ -1,0 +1,12 @@
+renderType,IMAGE
+lookFrom, 0, 15, 30
+lookAt, 0, 0, 0
+vup, 0, 1, 0
+vfov, 30.0
+aspectRatio, 2
+pixelsX, 700
+output,resultat.ppm
+globalLight, 0.2, 0.2, 0.2
+light,POINTLIGHT, 0.1, 0.1, 0.1, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.01, 0.01, 0.01, -5, 20, 10
+light,POINTLIGHT, 0.1, 0.1, 0.1, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.01, 0.01, 0.01, 2, 8, -50
+light,POINTLIGHT, 0.1, 0.1, 0.1, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.01, 0.01, 0.01, 2, 8, 10

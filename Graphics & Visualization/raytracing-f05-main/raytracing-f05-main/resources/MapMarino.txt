@@ -1,0 +1,3 @@
+dataType,VIRTUALWORLD
+limitsMonReal, -50, 50, -50, 50, -50, 50
+limitsMonVirtual, -50, 50, -50, 50, -50, 50
